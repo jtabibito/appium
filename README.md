@@ -5,10 +5,6 @@
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fappium%2Fappium.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fappium%2Fappium?ref=badge_shield)
 
-[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/)
-
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
-
 Appium is an open-source, cross-platform test automation tool for native,
 hybrid, mobile web and desktop apps. Initially created to automate iOS and Android mobile
 applications Appium has grown to a full-featured platform that provides [WebDriver](https://www.w3.org/TR/webdriver/)-based automation possibilities for the whole set of different mobile and desktop platforms.
